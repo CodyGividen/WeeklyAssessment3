@@ -12,7 +12,7 @@ public class Main {
 
         /* ANSWER QUESTION HERE:
 
-
+abstract classes cannot be initiated unless they are an extension of a parent class. it allows all abstract class to work with the parent class.
 
          */
     }
