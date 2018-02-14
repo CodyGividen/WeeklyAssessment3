@@ -1,7 +1,7 @@
 package com.company.Question_3;
 
 public class Main {
-
+    public static Switch switchThing;
     public static void main(String[] args) {
         /*
         1. Create a switch statement in its own method in the Switch class in this package.
@@ -10,6 +10,8 @@ public class Main {
         2. Recursion should be used if they hit the default.
         3. Instantiate the switch class in this main method and run the method you created.
          */
+        Switch switchThing = new Switch();
+        switchThing.switchThing();
 
     }
 }
